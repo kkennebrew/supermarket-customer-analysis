@@ -35,7 +35,7 @@ This preliminary analysis prepares a real-world supermarket dataset for downstre
 
 ```bash
 pip install pandas matplotlib seaborn
-jupyter notebook CMP7023B_Preliminary_Analysis.ipynb
+jupyter notebook Preliminary_Analysis.ipynb
 ```
 
 ---
