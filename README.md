@@ -27,7 +27,7 @@ This preliminary analysis prepares a real-world supermarket dataset for downstre
 
 | File | Description |
 |---|---|
-| `CMP7023B_Preliminary_Analysis.ipynb` | Full analysis notebook |
+| `Preliminary_Analysis.ipynb` | Full analysis notebook |
 | `SupermarketEvaluation.csv` | Raw dataset |
 | `Preliminary Data Analysis Report.pdf` | Written report with full methodology |
 
